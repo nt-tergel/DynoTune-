@@ -47,6 +47,11 @@
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="..\external\ADLX\Samples\csharp\x64\Debug\ADLXCSharpBind.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
     <Page Update="Views\SettingsPage.xaml">
       <SubType>Designer</SubType>
     </Page>
