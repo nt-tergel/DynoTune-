@@ -700,6 +700,12 @@
     <AppxPackagedFile Include="C:\Users\Admin\.nuget\packages\system.codedom\10.0.2\lib\net8.0\System.CodeDom.dll">
       <PackagePath>System.CodeDom.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\.nuget\packages\system.diagnostics.eventlog\8.0.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll">
+      <PackagePath>System.Diagnostics.EventLog.Messages.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\.nuget\packages\system.diagnostics.eventlog\8.0.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll">
+      <PackagePath>System.Diagnostics.EventLog.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Admin\.nuget\packages\system.io.ports\10.0.3\runtimes\win\lib\net8.0\System.IO.Ports.dll">
       <PackagePath>System.IO.Ports.dll</PackagePath>
     </AppxPackagedFile>

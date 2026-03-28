@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DynoTune")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b82217f4cf14a1bea74bdd82849f2f695c29707a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8a749606f580b3b0ad105c3a5f51cf5c4287cbb")]
 [assembly: System.Reflection.AssemblyProductAttribute("DynoTune")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DynoTune")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

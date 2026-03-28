@@ -18,7 +18,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>C:\Users\Admin\source\repos\DynoTune\DynoTune\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\AppX</LayoutDir>
-    <RegisteredManifestChecksum>661A0049367ECE0900F38574690035CB368FF68592E43118BC287E69F32FC996</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>DE6C58704777049CFFE4EE6D16282D6D7F5B382DB20F7058218208FD8C456C5B</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>a11f19c2-0e96-4a2d-835e-334b4c09b9d0_1.0.0.0_x64__5gyrq6psz227t</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>a11f19c2-0e96-4a2d-835e-334b4c09b9d0_5gyrq6psz227t!App</RegisteredUserModeAppID>
     <RegisteredPackageID>a11f19c2-0e96-4a2d-835e-334b4c09b9d0</RegisteredPackageID>
@@ -29,17 +29,17 @@
     <AppXManifest Include="C:\Users\Admin\source\repos\DynoTune\DynoTune\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2026-03-23T17:36:05.229</Modified>
+      <Modified>2026-03-28T10:57:39.527</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Admin\source\repos\DynoTune\DynoTune\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\DynoTune.runtimeconfig.json">
       <PackagePath>DynoTune.runtimeconfig.json</PackagePath>
-      <Modified>2026-03-23T17:31:21.299</Modified>
+      <Modified>2026-03-28T10:57:36.800</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Admin\source\repos\DynoTune\DynoTune\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\apphost.exe">
       <PackagePath>DynoTune.exe</PackagePath>
-      <Modified>2026-03-23T17:36:04.830</Modified>
+      <Modified>2026-03-28T10:57:33.235</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Admin\source\repos\DynoTune\external\ADLX\Samples\csharp\x64\Debug\ADLXCSharpBind.dll">
       <PackagePath>ADLXCSharpBind.dll</PackagePath>
@@ -47,7 +47,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Admin\source\repos\DynoTune\DynoTune\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\DynoTune.dll">
       <PackagePath>DynoTune.dll</PackagePath>
-      <Modified>2026-03-23T17:36:04.815</Modified>
+      <Modified>2026-03-28T10:57:33.018</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Admin\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.25\runtimes\win-x64\lib\net8.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -933,6 +933,14 @@
       <PackagePath>System.CodeDom.dll</PackagePath>
       <Modified>2025-12-12T16:50:24.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\.nuget\packages\system.diagnostics.eventlog\8.0.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll">
+      <PackagePath>System.Diagnostics.EventLog.Messages.dll</PackagePath>
+      <Modified>2023-10-31T14:59:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Admin\.nuget\packages\system.diagnostics.eventlog\8.0.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll">
+      <PackagePath>System.Diagnostics.EventLog.dll</PackagePath>
+      <Modified>2023-10-31T14:59:54.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Admin\.nuget\packages\system.io.ports\10.0.3\runtimes\win\lib\net8.0\System.IO.Ports.dll">
       <PackagePath>System.IO.Ports.dll</PackagePath>
       <Modified>2026-01-25T17:29:36.000</Modified>
@@ -979,7 +987,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Admin\source\repos\DynoTune\DynoTune\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\DynoTune.deps.json">
       <PackagePath>DynoTune.deps.json</PackagePath>
-      <Modified>2026-03-23T17:31:21.186</Modified>
+      <Modified>2026-03-28T10:57:35.954</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Admin\source\repos\DynoTune\DynoTune\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
@@ -1015,7 +1023,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Admin\source\repos\DynoTune\DynoTune\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2026-03-23T17:31:21.790</Modified>
+      <Modified>2026-03-28T10:57:37.768</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

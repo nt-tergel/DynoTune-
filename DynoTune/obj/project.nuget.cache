@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "oHWnzMCIGfg=",
+  "dgSpecHash": "IhHGuNyfGjQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\Admin\\source\\repos\\DynoTune\\DynoTune\\DynoTune.csproj",
   "expectedPackageFiles": [
@@ -41,6 +41,7 @@
     "C:\\Users\\Admin\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\10.0.3\\runtime.osx-arm64.runtime.native.system.io.ports.10.0.3.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\10.0.3\\runtime.osx-x64.runtime.native.system.io.ports.10.0.3.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\system.codedom\\10.0.2\\system.codedom.10.0.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\system.io.ports\\10.0.3\\system.io.ports.10.0.3.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\system.management\\10.0.2\\system.management.10.0.2.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\system.numerics.tensors\\9.0.0\\system.numerics.tensors.9.0.0.nupkg.sha512",
